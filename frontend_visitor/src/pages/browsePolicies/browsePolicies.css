@@ -1,0 +1,55 @@
+.headerAndDropdown{
+
+}
+
+#choiceCheckbox{
+    -webkit-transform: scale(1.3);
+}
+
+.checkboxWords{
+    font-size: 1.1em;
+    margin-left: 0.3em;
+}
+
+.choiceCheckboxContainer{
+    bottom: 14em;
+    right: 8em;
+    position: fixed;
+    
+  }
+
+.policiesBody{
+    width: 40%;
+    margin-left: 35%;
+}
+
+.selectedPoliciesList{
+width: auto;
+}
+
+.browsePolicies{
+justify-content: center;
+align-items: center;
+}
+
+.toContactFormLink{
+    text-decoration: none;
+    font-size: 1em;
+    border-radius: 0.5em;
+    color: black;
+    padding: 1em;
+    text-align: center;
+    background-color: rgb(224, 193, 193);
+    box-shadow:  0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)
+}
+
+.toContactFormLink:hover{
+    background-color: rgb(187, 99, 99);
+    color: white;
+}
+
+.contactFormBtn{
+    bottom: 10em;
+    right: 10em;
+    position: fixed;
+}

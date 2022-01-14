@@ -1,0 +1,16 @@
+.body{
+    text-align: center;
+}
+
+.title{
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+.description{
+    font-size: 1.2em;
+}
+
+.boxContainer{
+    margin: 3em;
+}
